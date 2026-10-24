@@ -1,0 +1,7 @@
+{
+  "appId": "com.minergame.prototype",
+  "appName": "The Miner Game",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#1a1230" }
+}
